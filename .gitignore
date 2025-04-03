@@ -1,3 +1,5 @@
 /cimf
 scripts/__pycache__/
 *.pyc
+/logs/*
+
